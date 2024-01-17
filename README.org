@@ -134,7 +134,7 @@ Here's a detailed list of all commands used to create, navigate through, or dele
 
 (evil-mc-resume-cursors)
 ;; Call to resume paused cursors.
-test
+
 (evil-mc-make-cursor-in-visual-selection-beg)
 ;; Create cursors at the beginning of every visually selected line.
 
